@@ -1,0 +1,4 @@
+#Sun May 23 12:15:48 COT 2021
+base.0=/home/daniel/Documentos/Acedemia_Flutter/Clase3/actividad_clase3/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

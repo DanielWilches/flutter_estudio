@@ -1,0 +1,2 @@
+com/example/media_gallery/BuildConfig.java
+ com.example.media_gallery.BuildConfig
